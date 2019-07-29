@@ -1,0 +1,1 @@
+This file involves the application of a simple averaging filter or kernel which convolves over the image using a function in opencv.
