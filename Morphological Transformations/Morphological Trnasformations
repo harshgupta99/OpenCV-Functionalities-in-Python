@@ -1,0 +1,2 @@
+Certain basic morphological transformations using Opencv
+This depicts how certain basic morphological transformations which includes- Erosion, Dilation, Opening, Closing, TopHat and BlackHat can be done using opencv.
